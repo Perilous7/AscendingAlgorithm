@@ -1,2 +1,5 @@
 
 *.xml
+out/production/AscendingAlgorithm/DynamicProgramming/RealTimeExample.class
+src/DynamicProgramming/RealTimeExample.java
+src/DynamicProgramming/RealTimeExample2.java
